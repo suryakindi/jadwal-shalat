@@ -13,7 +13,7 @@ Make sure you have the following installed on your computer:
 Clone the Repository
 Open the command line or terminal on your computer.
 
-"git clone suryakindi/jadwal-shalat"
+"git clone https://github.com/suryakindi/jadwal-shalat.git"
 
 Navigate to the Repository
 Navigate to the cloned repository's directory:
