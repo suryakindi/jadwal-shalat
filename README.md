@@ -1,3 +1,44 @@
+Demo : https://jadwal-shalat.site/
+
+Installation and Setup
+Follow the steps below to clone the repository, install dependencies using Composer, and run the php artisan serve command to start the server locally.
+
+Prerequisites
+Make sure you have the following installed on your computer:
+
+- Git
+- PHP
+- Composer
+
+Clone the Repository
+Open the command line or terminal on your computer.
+
+"git clone <URL_Repository.git>"
+
+Navigate to the Repository
+Navigate to the cloned repository's directory:
+
+"cd repository_directory_name"
+Replace repository_directory_name with the name of the directory where the repository was cloned.
+
+Install Dependencies
+Install the project dependencies using Composer:
+
+"composer install"
+
+This command will download and install all the packages defined in composer.json into the vendor directory.
+
+Run the Local Server
+Start the local server for the Laravel application:
+
+"php artisan serve"
+
+This command will run the Laravel development server, and you will see information about the server, such as the URL and port being used.
+
+Access the Application
+Open your web browser and access the Laravel application running on the local server. Use the URL and port displayed in the previous step.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
